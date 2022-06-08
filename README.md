@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FrankMartinem
+- 👋 Hi, I’m Zijun Wan
 - 👀 I’m interested in Brain Computer Interface, Machine Learning and Deep Learning
 - 🌱 I’m currently learning NLP problem
 - 💞️ I’m looking to collaborate on Brain Computer Interface Problems
